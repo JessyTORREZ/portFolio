@@ -1,0 +1,5 @@
+Dependence front =
+  - AOS Library
+  - Choreographer-js
+  - popper.js / floating-ui
+  - slick

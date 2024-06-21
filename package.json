@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "eslint": "^9.4.0",
+    "globals": "^15.4.0",
+    "mixitup": "^3.3.1",
+    "prettier": "3.3.2"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.3.3",
+    "aos": "^2.3.4",
+    "boxicons": "^2.1.4",
+    "choreographer-js": "^1.1.0",
+    "emailjs-com": "^3.2.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
