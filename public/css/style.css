@@ -677,6 +677,10 @@ img {
   cursor: pointer;
 }
 
+.modal__link {
+  color: #fff;
+}
+
 .work__active-modal {
   opacity: 1;
   visibility: visible;
