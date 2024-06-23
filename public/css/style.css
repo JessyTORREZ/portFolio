@@ -901,6 +901,8 @@ img {
 
   .work__img {
     width: 295px;
+    height: 195px;
+    object-fit: cover;
   }
 
   .contact__info {
